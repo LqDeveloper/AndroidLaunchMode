@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".LaunchActivity">
+
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:background="#0f0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="这是启动页"
+        android:textSize="20sp"
+        android:textColor="#f00"
+        />
+
+</LinearLayout>
